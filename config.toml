@@ -23,7 +23,7 @@ disqusShortname = "blog-zb5zgvwauw"
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"

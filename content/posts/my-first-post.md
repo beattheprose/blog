@@ -1,11 +1,9 @@
 +++
 title = "My First Post"
 date = "2020-10-10T17:41:50-05:00"
-author = ""
-authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
+tags = ["thoughts", "blog"]
+keywords = ["blog", "thoughts"]
 description = ""
 showFullContent = false
 +++
