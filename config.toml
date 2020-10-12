@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 title = "blog | alex jackson"
+disqusShortname = "blog-zb5zgvwauw"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -10,7 +11,7 @@ title = "blog | alex jackson"
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -47,27 +48,27 @@ title = "blog | alex jackson"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "~/blog"
+    subtitle = "Alex Jackon's technical(ish) blog. Looking to find a good path toward the future."
+    owner = "Alex Jackson"
     keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
+    copyright = "Alex Jackson, 2020"
+    menuMore = "show more"
+    readMore = "see more"
     readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    missingContentMessage = "blog: 1: page: not found :("
+    missingBackButtonLabel = "exit back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Alex@Jackson:~/blog$"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "about"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "projects"
+        url = "/projects"
