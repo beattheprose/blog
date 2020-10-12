@@ -2,8 +2,8 @@
 title = "My First Post"
 date = "2020-10-10T17:41:50-05:00"
 cover = ""
-tags = ["thoughts", "blog"]
-keywords = ["blog", "thoughts"]
+tags = ["thoughts", "blog", "meta"]
+keywords = ["blog", "thoughts", "meta"]
 description = ""
 showFullContent = false
 +++
